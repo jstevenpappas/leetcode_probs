@@ -11,7 +11,7 @@ difference k=2, there are four pairs with difference 2:
 
 
 
-arr_vals = {1,7,5,9,2,12,3}
+arr_vals = [1,7,5,9,2,12,3]
 k_diff = 2
 
 
